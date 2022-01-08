@@ -1,4 +1,4 @@
-- Hi, I’m @asgorexe. I like web development, but I don't have a website because domains cost money
+- Hi, I’m @asgorexe (Relic374). I like web development, but I don't have a website because domains cost money
 - I’m interested in C, Python, HTML/CSS, gdscript, and ASM (yes I am totally cool because I like asm)
 - I’m currently learning gdscript and relearning HTML/CSS
 - I’m looking to collaborate on nothing, sadly
