@@ -1,5 +1,5 @@
 - Hi, I’m @asgorexe (Relic374). I like web development, but I don't have a website because domains cost money
-- I’m interested in C, Python, HTML/CSS, gdscript, and 
+- I’m interested in C, Python, HTML/CSS, gdscript, and  Kotlin
 - I tried to learn Ruby, but I couldn't understand anything
 - I really love bash, so probably will be putting some shell scripts on here soon
 - I’m currently learning gdscript and relearning HTML/CSS
