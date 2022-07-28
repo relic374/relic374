@@ -1,6 +1,6 @@
 - Hi, I’m @relic374. I like web development, but I don't have a website because they cost money lol
 - I’m interested in C/C++ (C ftw), HTML/CSS, gdscript, rust, and Kotlin
-- I tried to learn Ruby, but Ruby is stupid
+- I tried to learn Ruby once, but Ruby is stupid
 - I really love bash, so theres a bunch of that here
 - I’m currently learning C++, gdscript, and I'd like to learn rust
 - If you want to collab we can, but I'm busy with school and stuff. Not that I'd know why you'd want to collab with me heh...
