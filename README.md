@@ -2,9 +2,7 @@ Hey, I’m @relic374. I love chiptune and retro gaming.
 
 My current projects:<br>
 1.  RuneEngine          - A Bare Bones C++ Game Engine Built as a CLI
-2.  PDC                       - Pixel Data Compiler, a Modding Suite for CmSpeedrunner's Pixel Games
-3.  GleamTracker       - A SN76489 (Sega Master System) Tracker With Plans to Add Support for SID and the Atari Lynx's MIKEY PSUs
-4.  Treacain                - A Niche CLI Tracker
+3.  GleamTracker       - A SN76489 (Sega Master System) Tracker 
 5.  mtplayer                - A Very Simple & Lightweight CLI Music Player Written in C++ Using the MiniAudio Library
 6.  PR Dissasm           - A Repo with the Game Pixel Railfight's Code, Set up for Modding
 7.  Gemp                     - A Easy Way to Back up Files Using a CLI
