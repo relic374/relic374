@@ -1,5 +1,7 @@
 Hey, I’m @relic374. I love chiptune and retro gaming. 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=relic374)](https://github.com/anuraghazra/github-readme-stats)
+
 My current projects:<br>
 1.  RuneEngine          - A Bare Bones C++ Game Engine Built as a CLI
 3.  GleamTracker       - A SN76489 (Sega Master System) Tracker 
