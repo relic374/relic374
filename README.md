@@ -10,7 +10,7 @@ Hey, I’m @relic374. I love chiptune and retro gaming.
 2.  One Ep Full W3D  - A Source Code Edit of Wolfenstein 3D So That Only the First Episode is Playable
 3.  PK3EXEC               - A CLI For MacOS to Easily Run Wolfenstein 3D Mods
 #### Low Priority:<br>
-11.  mtplayer                - A Very Simple & Lightweight CLI Music Player Written in C++ Using the MiniAudio Library
+1.  mtplayer                - A Very Simple & Lightweight CLI Music Player Written in C++ Using the MiniAudio Library
 #### High Priority:<br>
 1.  RuneEngine          - A Bare Bones C++ Game Engine Built as a CLI
 2.  GleamTracker       - A SN76489 (Sega Master System) Tracker 
