@@ -11,7 +11,7 @@ My current projects:<br>
 7.  Gemp                     - A Easy Way to Back up Files Using a CLI
 8.  One Ep Full W3D  - A Source Code Edit of Wolfenstein 3D So That Only the First Episode is Playable
 9.  PK3EXEC               - A CLI For MacOS to Easily Run Wolfenstein 3D Mods
-10. Moddruun              - A GUI For Easily Running Wolfenstein 3D Mods, Similar to GZDoom's Startup Page<br>
+10. E-Modrun              - A GUI For Easily Running Wolfenstein 3D Mods, Similar to GZDoom's Startup Page<br>
 
 I also upload various disassemblies of NES games.<br>
 
